@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libNetProxy.a CMakeFiles/NetProxy.dir/NetProxy.cpp.o
+/usr/bin/ranlib ../../lib/libNetProxy.a
