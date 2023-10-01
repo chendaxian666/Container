@@ -1,4 +1,7 @@
+#ifndef NETPROXY
+#define NETPROXY
 
+/// @brief base net class,offer capacity to communicate.
 class NetProxy
 {
 private:
@@ -15,3 +18,6 @@ NetProxy::NetProxy(/* args */)
 NetProxy::~NetProxy()
 {
 }
+
+#endif
+
